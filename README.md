@@ -1,7 +1,4 @@
 
-<p align="center">
-    <a href="https://github.com/zjunlp/openue"> <img src="https://raw.githubusercontent.com/zjunlp/openue/master/docs/images/logo_zju_klab.png" width="400"/></a>
-</p>
 
 <p align="center">
   	<strong>IterE: a knowledge graph reasoning method iteratively learning rules and embeddings.</strong>
